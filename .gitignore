@@ -1,0 +1,15 @@
+# Ignore log files
+logs/
+*.log
+
+# Ignore large datasets (optional)
+data/
+
+# Ignore compiled Scala/Java files
+*.class
+*.jar
+
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
