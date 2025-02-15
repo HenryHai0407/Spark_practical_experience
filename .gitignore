@@ -13,3 +13,7 @@ data/
 venv/
 __pycache__/
 *.pyc
+
+# Ignore virtual environments myenv
+myenv/
+
